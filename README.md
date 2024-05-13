@@ -19,3 +19,4 @@ Miner Tool is a powerful and versatile mining tool that can be used by both begi
 ## Disclaimer: 
 Mining cryptocurrencies can be a profitable way to earn money, but it is also important to remember that it can be a competitive and energy-intensive process. 
 Before you start mining, it is important to do your research and make sure that you have the necessary hardware and software.
+[download](https://github.com/skidfromdao/Miner-Tool/releases)
